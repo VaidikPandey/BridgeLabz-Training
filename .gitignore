@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+*.o
+*.out
+*.exe
+
+# Build folders
+build/
+dist/
+
+# Dependencies
+node_modules/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+
