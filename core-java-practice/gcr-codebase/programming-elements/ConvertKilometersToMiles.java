@@ -8,5 +8,4 @@ public class ConvertKilometersToMiles {
         System.out.println("the total miles is " + miles + "for the given" + km + " kilometers");
         scan.close();
     }
-    
 }

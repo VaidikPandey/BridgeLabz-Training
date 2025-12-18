@@ -1,4 +1,3 @@
-package level1;
 import java.util.Scanner;
 public class UniversityFeeUserInput {
     public static void main(String[] args) {
