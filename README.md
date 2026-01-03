@@ -47,12 +47,12 @@ Focus: OOP fundamentals, constructors, keywords, modeling, inheritance, encapsul
 | Topic | Material Date | Assignment Submission | Key Files/Folders | Status |
 |-------|---------------|-----------------------|-------------------|--------|
 | Employee Wage Computation Problem | - | Dec 31, 23:59 | `scenario-based/employee-wage/` | Submitted ✅ |
-| 01 - OOP Fundamentals | Dec 22 | Java Class and Object | `gcr-codebase/oop-fundamentals/` (classes, objects) | Submitted (Yesterday) ✅ |
-| 02 - Constructors, Instance/Class Vars, Access Modifiers | Dec 22 | Level 1 Lab Practice | `gcr-codebase/constructors-access/` | Submitted (Yesterday) ✅ |
-| 03 - this, static, final, instanceof | Dec 23 | Level 1 Lab Practice | `gcr-codebase/keywords/` | Submitted (Yesterday, 11:10) ✅ |
-| 04 - Object Modeling, Class Diagram | Dec 23 | OOP Design Principles | `gcr-codebase/object-modeling/` | Submitted (Yesterday, 11:10) ✅ |
-| 05 - Inheritance | Dec 23 | Inheritance Submission | `gcr-codebase/inheritance/` (super, extends) | Submitted (Yesterday, 11:10) ✅ |
-| 06 - Encapsulation, Interface, Abstract Classes, Polymorphism | Dec 23 | Encapsulation/Polymorphism/etc. | `gcr-codebase/encapsulation-polymorphism/` | Submitted (Yesterday, 11:10) ✅ |
+| 01 - OOP Fundamentals | Dec 22 | Java Class and Object | `gcr-codebase/oop-fundamentals/` (classes, objects) | Submitted  ✅ |
+| 02 - Constructors, Instance/Class Vars, Access Modifiers | Dec 22 | Level 1 Lab Practice | `gcr-codebase/constructors-access/` | Submitted ✅ |
+| 03 - this, static, final, instanceof | Dec 23 | Level 1 Lab Practice | `gcr-codebase/keywords/` | Submitted ✅ |
+| 04 - Object Modeling, Class Diagram | Dec 23 | OOP Design Principles | `gcr-codebase/object-modeling/` | Submitted  ✅ |
+| 05 - Inheritance | Dec 23 | Inheritance Submission | `gcr-codebase/inheritance/` (super, extends) | Submitted ✅ |
+| 06 - Encapsulation, Interface, Abstract Classes, Polymorphism | Dec 23 | Encapsulation/Polymorphism/etc. | `gcr-codebase/encapsulation-polymorphism/` | Submitted ✅ |
 
 **Branch**: `oops-practice`  
 **Highlights**: Built class hierarchies and applied access controls; Employee Wage project integrated multiple concepts. 🔗
@@ -62,11 +62,11 @@ Focus: Linear DS, stacks/queues, hashing, sorting, searching, runtime analysis. 
 
 | Topic | Material Date | Assignment Submission | Key Files/Folders | Status |
 |-------|---------------|-----------------------|-------------------|--------|
-| 01 - DS Intro & LinkedList | Dec 29 | LinkedList Submission | `gcr-codebase/linear-ds/linkedlist/` (add/remove/search) | Submitted (Dec 31) ✅ |
-| 02 - Stack, Queue, HashMap, Hashing | Dec 29 | Stack/Queue/HashMap Submission | `gcr-codebase/linear-ds/stack-queue-hash/` | Submitted (Dec 31, 23:59) ✅ |
-| 03 - Sorting Algorithms | Dec 30 | Sorting Algorithms Submission | `gcr-codebase/algorithms/sorting/` (bubble, insertion, etc.) | Submitted (Dec 31) ✅ |
-| 04-05 - Linear/Binary Search, StringBuilder/Buffer, Readers | Dec 30 | Linear/Binary Search Submission | `gcr-codebase/algorithms/search/` (file I/O integration) | Submitted (Dec 31, 23:59) ✅ |
-| 06 - Runtime Analysis & Big-O | Jan 1 | Big-O Notation Submission | `gcr-codebase/algorithms/big-o/` (time/space complexity) | Submitted (Jan 1) ✅ |
+| 01 - DS Intro & LinkedList | Dec 29 | LinkedList Submission | `gcr-codebase/linear-ds/linkedlist/` (add/remove/search) | Submitted ✅ |
+| 02 - Stack, Queue, HashMap, Hashing | Dec 29 | Stack/Queue/HashMap Submission | `gcr-codebase/linear-ds/stack-queue-hash/` | Submitted ✅ |
+| 03 - Sorting Algorithms | Dec 30 | Sorting Algorithms Submission | `gcr-codebase/algorithms/sorting/` (bubble, insertion, etc.) | Submitted  ✅ |
+| 04-05 - Linear/Binary Search, StringBuilder/Buffer, Readers | Dec 30 | Linear/Binary Search Submission | `gcr-codebase/algorithms/search/` (file I/O integration) | Submitted  ✅ |
+| 06 - Runtime Analysis & Big-O | Jan 1 | Big-O Notation Submission | `gcr-codebase/algorithms/big-o/` (time/space complexity) | Submitted ✅ |
 
 **Branch**: `dsa-practice`  
 **Highlights**: Implemented custom DS from scratch; analyzed efficiencies for interview prep. ⚡
