@@ -11,18 +11,6 @@ To get started:
 2. Checkout branch: `git checkout <branch-name>` 🔀
 3. Open in IDE, compile: `javac *.java`, run: `java <ClassName>` ▶️
 
-## Prerequisites 📋
-Completed setup and foundational materials (December 18-30, 2025):
-- Linux Terminal Commands cheat sheet. 🖥️
-- BridgeLabz Guidelines for Trainees (CG Program). 📜
-- Installation Guide: Git Bash, Notepad++, Java JDK, GitHub setup. ⚙️
-- Java FS w/ Angular + Python + GenAI Maker Plan & Roadmap. 🗺️
-- Git Approach & Cheat Sheet. 🌐
-- Best Practices & Coding Standards in Java. ⭐
-- Problem-Solving Approach using Java. 🧠
-- Java Fundamentals intro. 🔤
-- Initial Practice Problem submission ( Dec 19, 2025). 📝
-
 **Branch**: `main` (setup files and initial README). 🏠
 
 ## Week-by-Week Progress 📊
