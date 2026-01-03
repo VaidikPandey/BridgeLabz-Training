@@ -77,8 +77,6 @@ Focus: Generics and Collections framework. Materials reviewed; assignment due to
 - **dsa-practice**: Week 03 DSA (gcr-codebase/algorithms and linear-ds). 🔗
 - **collection-practice**: Week 04 Collections (gcr-codebase/collections). 📦
 
-Each branch includes `.gitignore`, Java source files, and README snippets for topics. 📄
-
 ## Future Weeks (Planned) 🔮
 - **Week 05+**: Advanced Java (exceptions, multithreading), JDBC, Servlets. 🚀
 - **Weeks 10+**: Frontend (Angular), Python integration, GenAI modules. 🎨
