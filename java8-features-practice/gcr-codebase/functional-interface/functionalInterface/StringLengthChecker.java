@@ -15,7 +15,7 @@ public class StringLengthChecker {
 	public static void main(String[] args) {
 
 		int limit = 26;
-		String str = "HaritPatel";
+		String str = "Vaidik Pandey";
 
 		Function<String, Integer> func = new Function<>() {
 			public Integer apply(String str) {

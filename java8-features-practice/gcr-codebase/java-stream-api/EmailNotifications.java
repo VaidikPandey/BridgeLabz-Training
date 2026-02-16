@@ -8,7 +8,6 @@ public class EmailNotifications {
 
     public static void sendEmailNotification(String email) {
         System.out.println("Sending email notification to: " + email);
-        // In a real application, this would involve actual email sending logic
     }
 
     public static void main(String[] args) {
